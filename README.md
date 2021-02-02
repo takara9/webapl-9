@@ -13,4 +13,10 @@ Istioを適用して、RESTサービス間の連携の様子を可視化でき�
 それぞれのディレクトリでコンテナをビルドして Docker Hubへプッシュする。
 
 
+* maho/ml-head:1.0/2.0   https://hub.docker.com/repository/docker/maho/ml-head
+* maho/ml-cache:1.0      https://hub.docker.com/repository/docker/maho/ml-cache
+* maho/ml-counter:1.0    https://hub.docker.com/repository/docker/maho/ml-counter
+* maho/ml-load:1.0       https://hub.docker.com/repository/docker/maho/ml-load
+
+
 
